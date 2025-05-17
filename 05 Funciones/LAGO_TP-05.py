@@ -3,7 +3,7 @@ def multiplos_4():
     multiplos_de_4 = list(range(4, 101, 4))
     print("Multiplos de 4:", multiplos_de_4)
 
-# 2) Mostrar el penultimo elemento de una lista personalizada
+# 2)
 def penultimo_elemento():
     gustos = ["chocolate", "libros", "peliculas", "musica", "gatos"]
     print("Penultimo elemento:", gustos[-2])
